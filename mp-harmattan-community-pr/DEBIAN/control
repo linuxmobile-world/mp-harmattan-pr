@@ -1,0 +1,46 @@
+Package: mp-harmattan-community-pr
+Priority: required
+Section: user/system
+Maintainer: Nokia
+Architecture: all
+Version: 2025.51
+Depends: mp-harmattan-shared-pr (= 40.2012.21-4), opensudo (= 1:1.6.8p12-4osso28+0m6), apt (= 0.7.25.3+maemo41+0m8), connectivity-test (= 0.0.2), tls-fix (= 1.0-13), tzdata (= 2025b.meego7), tzdata-timed (= 2025b.meego7), tzdata-calendar (= 2025b.meego7), tzdata-libicu (= 2025b.meego7), package-manager-ui (= 1.3.4+0m14-pwned), web-search-frogfind (= 1.0-1), libpackage-manager-dbus-qt0 (= 1.3.6), package-manager-settings (= 1.3.6), package-manager (= 1.3.6), chrony (= 4.7)
+Description: We are so back! MeeGo Harmattan community update
+Maemo-Display-Name: Device update
+Maemo-Display-Name-ar: تحديث الجهاز
+Maemo-Display-Name-cs: Aktualizace přístroje
+Maemo-Display-Name-da: Enhedsopdatering
+Maemo-Display-Name-de: Geräte-Update
+Maemo-Display-Name-en: Device update
+Maemo-Display-Name-es: Actualización del dispositivo
+Maemo-Display-Name-fa: نسخه به روز دستگاه
+Maemo-Display-Name-fi: Laitteen päivitys
+Maemo-Display-Name-fr: Mise à jour de l'appareil
+Maemo-Display-Name-he: עדכון התקן
+Maemo-Display-Name-hu: Készülék frissítése
+Maemo-Display-Name-id: Pembaruan perangkat
+Maemo-Display-Name-it: Aggiornamento dispositivo
+Maemo-Display-Name-kk: Құрылғы жаңартуы
+Maemo-Display-Name-ms: Kemas kinian peranti
+Maemo-Display-Name-nl: Apparaatupdate
+Maemo-Display-Name-no: Enhetsoppdatering
+Maemo-Display-Name-pl: Aktualizacja urządzenia
+Maemo-Display-Name-pt: Actualização do dispositivo
+Maemo-Display-Name-ro: Actualizare aparat
+Maemo-Display-Name-ru: Обновление устройства
+Maemo-Display-Name-sk: Aktualizácia zariadenia
+Maemo-Display-Name-sv: Enhetsuppdatering
+Maemo-Display-Name-th: อัพเดตอุปกรณ์
+Maemo-Display-Name-tr: Cihaz güncellemesi
+Maemo-Display-Name-uk: Оновлення пристрою
+Maemo-Display-Name-vi: Cập nhật điện thoại
+Maemo-Display-Name-zh: 设备更新
+Maemo-Display-Name-fr_CA: Mise à jour de l'appareil
+Maemo-Display-Name-en_US: Device update
+Maemo-Display-Name-es_MX: Actualización de dispositivo
+Maemo-Display-Name-pt_BR: Atualização do aparelho
+Maemo-Display-Name-zh_HK: 裝置更新
+Maemo-Display-Name-zh_TW: 裝置更新
+Maemo-Flags: reboot-update,system-update
+Maemo-Required-Free-Space: 46080
+
